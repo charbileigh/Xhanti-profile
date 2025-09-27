@@ -7,6 +7,20 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
+## Cloning and Downloading Files
+Clone onto your device:
+```
+gh repo clone charbileigh/Xhanti-profile
+
+```
+
+or 
+
+```
+https://github.com/charbileigh/Xhanti-profile.git
+
+```
+
 
 ## Authors
 
