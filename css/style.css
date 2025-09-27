@@ -10,17 +10,13 @@ $breakpoint arguement choices:
 - tab-land
 - big-desktop
 
-Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only inside media queries
-
-WHY DOES NESTING CSS CLASSES WORK HERE??????
-
 */
 
 * {
-  --n-blue: 0, 98, 185;
-  --blue: rgba(0, 98, 185, 0.8);
+  --n-blue: 0, 128, 0;
+  --blue: rgba(0, 255, 225, 0.8);
   --red: red;
-  --purple: rgba(143, 162, 255, 0.8);
+  --purple: rgba(11, 52, 255, 0.8);
   --green: rgba(31, 79, 45, 0.8);
   --light-green: rgba(101, 146, 74, 0.8);
   --brown: rgba(129, 104, 8, 0.8);
